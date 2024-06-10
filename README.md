@@ -6,6 +6,7 @@ For more information about the project and findings visit https://arxiv.org/abs/
 When using this data, please cite the source of the data:
 Tim Althoff, Boris Ivanovic, Jennifer L. Hicks, Scott L. Delp, Abby C. King, Jure Leskovec. "Countrywide natural experiment reveals impact of built environment on physical activity". 	arXiv:2406.04557 [cs.CY]
 
+```
 @misc{althoff2024countrywide,
       title={Countrywide natural experiment reveals impact of built environment on physical activity}, 
       author={Tim Althoff and Boris Ivanovic and Jennifer L. Hicks and Scott L. Delp and Abby C. King and Jure Leskovec},
@@ -14,6 +15,7 @@ Tim Althoff, Boris Ivanovic, Jennifer L. Hicks, Scott L. Delp, Abby C. King, Jur
       archivePrefix={arXiv},
       primaryClass={cs.CY}
 }
+```
 
 Directory structure: 
 - There is a subdirectory corresponding to each Figure and Extended Data Figure. 
